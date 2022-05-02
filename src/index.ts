@@ -14,4 +14,4 @@ app.listen(process.env.PORT, () => {
   console.log(`${process.env.PROJECT_NAME} server is running on the Port ${process.env.PORT}`);
 });
 
-dbConnection()
+dbConnection() 
